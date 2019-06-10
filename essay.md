@@ -70,7 +70,7 @@ The node project made a decision to allow this, and to continue to give npm Inc 
 
 ^You made the decision to allow this too.  You made a critical decision right here, you and the entire rest of the Javascript community. You voted with your feet, and kept using npm's registry, thus tacitly agreeing that this was fine.
 
-But Ceej, I hear you say, we weren't using npm then! We weren't around! Yes! Most of you weren't! You inherited this decision. You probably never realized it *was* a decision. npm exists out there, a fact of Javascript life that you never questioned. You might not have been aware or even cared that it was a company at all.
+"But Ceej," I hear you say, "we weren't using npm then! We weren't around!" Yes! Most of you weren't! You inherited this decision. You probably never realized it *was* a decision. npm exists out there, a fact of Javascript life that you never questioned. You might not have been aware or even cared that it was a company at all.
 
 At the time, it was a controversial decision. Nodejitsu, which had been hosting npm free of charge, wasn't happy about this. They had been up to their own fix with a `#scalenpm` campaign, which ended up raising money for it at the same time npm's owner was raising VC money. There were legal maneuverings, most of which I know little about. I do know that npm exited Nodejitsu hosting very quickly and messily because the two companies were fighting and it involved lawyers. And later on, npm exited Joyent's hosting very quickly because those two companies were also fighting.
 
@@ -108,7 +108,7 @@ There's a little potlatch urge in every open source project announced by humans 
 
 You are likely aware of the difference between _free software_ — Richard Stallman style— and _open source_ — Eric Raymond style. Stallman's GNU license aims to require users of shared source code to give what they build with it away freely as well. Or at least to give their code away freely. We can argue about whether the GNU license achieves that goal or not, and people do argue about that at length. I don't want to rehash the question here. I will merely observe that ESR's style of open source, where you give away code with permissive licenses, is the style that has won. It's _most likely_ the style that you practice— you probably use "permissive" MIT & BSD licenses on your software, and you treat the GPL like poison.
 
-Capitalism loves ESR-open-source because companies get a lot of good stuff for free. Capitalism takes this even further by telling you all that you _have_ to do this to get hired. “Github is your resume,” they tell you, hand outstretched to take free code from you and sell what they make with it.
+Capitalism loves ESR-open-source because companies get a lot of good stuff for free. Capitalism takes this even further by telling you all that you _have_ to do this to get hired. "Github is your resume," they tell you, hand outstretched to take free code from you and sell what they make with it.
 
 Dominic Tarr gives away pull-stream and every Fortune 500 company there is gets to use his work without compensating him. This is our reality.
 

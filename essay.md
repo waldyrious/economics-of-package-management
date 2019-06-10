@@ -20,7 +20,7 @@ Javascript was starting to be very interesting as a programming language, around
 
 This very conference was part of the server-side javascript action. It was here, in 2009, at JSConfEU, where Ryan Dahl announced node.js.
 
-node.js turned out to be the server-side Javascript platform people were wanting. The early node community swept up interesting people who enjoyed the bleeding edge and the possibilities of a brand-new ecosystem where nobody had done much invention yet. Several of the people involved in early node figured out early on that package management for node would be very useful, and started writing package managers. Yes, more than one-- there were several competitors.
+node.js turned out to be the server-side Javascript platform people were wanting. The early node community swept up interesting people who enjoyed the bleeding edge and the possibilities of a brand-new ecosystem where nobody had done much invention yet. Several of the people involved in early node figured out early on that package management for node would be very useful, and started writing package managers. Yes, more than one— there were several competitors.
 
 One of these people was a Yahoo employee who was extra-into node. He quit his job so he could write something inspired by the Yahoo package manager, but open source and for node.js. This particular programmer was clever in a couple of useful ways: he got deeply involved in the node project, and this let him work on the implementation of the CommonJS module spec in node. And he did things to beat other package managers, like give projects pull requests to support his package manager instead of the others.
 
@@ -30,7 +30,7 @@ Somewhere around this time, Joyent bought node from Ryan Dahl for a paltry amoun
 
 You'll notice that we're already in interesting economic territory. The man who invented node.js, the tool used by millions of people daily to develop Javascript, made a couple tens of thousands of dollars from it. Whoever's making money from node today, it's not its inventor. He did at least make a living from it, because Joyent hired him. [NOTE: I hear from somebody who ought to know that Dahl collected more than few tens of thousands, so he did okay in the short term. Still less than the overall value generated, however.]
 
-The programmer who wrote npm was also hired by Joyent to work on node but-- important plot point-- he retained ownership of the the npmjs.org domain name, the npm source code, and any inventions in it as his own intellectual property. He didn't turn it all over to Joyent the way the node source had been turned over to Joyent. This decision matters later, so take note.
+The programmer who wrote npm was also hired by Joyent to work on node but— important plot point— he retained ownership of the the npmjs.org domain name, the npm source code, and any inventions in it as his own intellectual property. He didn't turn it all over to Joyent the way the node source had been turned over to Joyent. This decision matters later, so take note.
 
 In 2012 Dahl left the node project, and npm's owner stepped up to lead it in his stead, and by this time npm was the only package manager left standing.
 
@@ -64,7 +64,7 @@ This is not an unusual problem for language ecosystems to face. RubyGems costs m
 
 npm's sole owner decided to try something other language package managers hadn't tried: he decided to try to take VC funding and turn his software into a company. He'd seen how little money Joyent gave Ryan Dahl, and how much node.js was turning out to be worth (even if Joyent was doing a terrible job of making money from it themselves). This was possible because he'd retained ownership of npm, even while he was running the node project.
 
-So he quit Joyent, founded a company-- npm, Inc.-- and took seed funding from a VC firm.
+So he quit Joyent, founded a company— npm, Inc.— and took seed funding from a VC firm.
 
 The node project made a decision to allow this, and to continue to give npm Inc special privileges as software packaged along with node.  I don't know if there was internal dissention about this, because I wasn't part of it. The node project was entering its moribund period at the end of 2013, so it's possible the decision was made through inaction. Anyway, the node project has continued to decide to give a privately-owned company special privileges by bundling its product. They're fine with it.
 
@@ -94,7 +94,7 @@ Why isn't Dominic Tarr living on a yacht instead of a sailboat?
 
 Why does Jan Lehnardt have a day job?
 
-Do you know those names? They're the authors of software you have on your laptops right now, in software that is the beating heart of a thousand open-source programs you use every day. And not just you-- every Fortune 500 company there is runs the software written by those people, and dozens of others who contributed software to node and npm in the early days. They aren't wealthy, despite the enormous value created by the software they wrote.
+Do you know those names? They're the authors of software you have on your laptops right now, in software that is the beating heart of a thousand open-source programs you use every day. And not just you— every Fortune 500 company there is runs the software written by those people, and dozens of others who contributed software to node and npm in the early days. They aren't wealthy, despite the enormous value created by the software they wrote.
 
 Capitalism is supposed to reward people like them, but in practice it does not.
 
@@ -106,7 +106,7 @@ The native American people of the Northwest Pacific Coast of the US and Canada h
 
 There's a little potlatch urge in every open source project announced by humans who did it it on their own, not supported by any company. this particular modern expression of potlatch culture isn't getting violently suppressed. Capitalism loves this one! Why? Well, because it's found a way to weaponize it against us. The weaponization is Eric Raymond style open source.
 
-You are likely aware of the difference between _free software_ — Richard Stallman style— and _open source_ — Eric Raymond style. Stallman's GNU license aims to require users of shared source code to give what they build with it away freely as well. Or at least to give their code away freely. We can argue about whether the GNU license achieves that goal or not, and people do argue about that at length. I don't want to rehash the question here. I will merely observe that ESR's style of open source, where you give away code with permissive licenses, is the style that has won. It's _most likely_ the style that you practice-- you probably use "permissive" MIT & BSD licenses on your software, and you treat the GPL like poison.
+You are likely aware of the difference between _free software_ — Richard Stallman style— and _open source_ — Eric Raymond style. Stallman's GNU license aims to require users of shared source code to give what they build with it away freely as well. Or at least to give their code away freely. We can argue about whether the GNU license achieves that goal or not, and people do argue about that at length. I don't want to rehash the question here. I will merely observe that ESR's style of open source, where you give away code with permissive licenses, is the style that has won. It's _most likely_ the style that you practice— you probably use "permissive" MIT & BSD licenses on your software, and you treat the GPL like poison.
 
 Capitalism loves ESR-open-source because companies get a lot of good stuff for free. Capitalism takes this even further by telling you all that you _have_ to do this to get hired. “Github is your resume,” they tell you, hand outstretched to take free code from you and sell what they make with it.
 
@@ -114,19 +114,19 @@ Dominic Tarr gives away pull-stream and every Fortune 500 company there is gets 
 
 The person in this story who _did not_ give away his intellectual property is the person in this story who's most likely to make a pile of money. Of course, he's not going to make anywhere near as much as the venture capital funds that paid for everything— the people who truly do well in this story are the people who had money to begin with. The people who had nothing to do with Javascript are the people who effectively own its commons.
 
-Let's talk about this term I keep using-- the Javascript commons. What do I mean by that?
+Let's talk about this term I keep using— the Javascript commons. What do I mean by that?
 
 The commons! It's a singular noun, meaning the collection of resources accessible to all members of a society. This could be natural resources, like the air we all breathe. It could also mean the field we all share to graze our sheep in.
 
 For us, in the Javascript community, our commons includes the language spec itself. That's owned by an organization set up to allow all Javascript's stakeholders to cooperate to design and build it. TC39 has done pretty well by Javascript.
 
-Another thing our commons includes is all our shared code. The source code for Babel, the source code for webpack, the source code for TypeScript, for React, for Angular— these and thousands of other packages make up our commons. The _registry that lists all of this shared code_ is also part of our commons. It's how we share all that stuff with each other, how we find it. Another thing that's part of our commons is the set of conventions we've evolved around that -- the ways we agree to name and update the things we share.
+Another thing our commons includes is all our shared code. The source code for Babel, the source code for webpack, the source code for TypeScript, for React, for Angular— these and thousands of other packages make up our commons. The _registry that lists all of this shared code_ is also part of our commons. It's how we share all that stuff with each other, how we find it. Another thing that's part of our commons is the set of conventions we've evolved around that — the ways we agree to name and update the things we share.
 
 But all of _that_ is wholly owned by a VC-funded private company.
 
 Last year at this conference, Ryan Dahl, the inventor of node, came back to make another announcement. He talked about [design mistakes](~~https://tinyclouds.org/jsconf2018.pdf~~) he thought he'd made with node. Here's one.
 
-> It's unfortunate that there is a centralized (privately controlled even) repository for modules. --Ryan Dahl
+> It's unfortunate that there is a centralized (privately controlled even) repository for modules. —Ryan Dahl
 
 When I first saw that, I was inclined to argue with Dahl about centralization, but I had to agree with his comment about private control.
 
@@ -142,7 +142,7 @@ Note here that I'm talking about the _package registry_ almost exclusively here.
 
 The API is open because the company chooses to allow it to be open. You don't have any control over that. You also can't influence that API and get changes that the ecosystem might benefit from.
 
-The management of your commons is opaque to you. It will remain opaque to you until the company that owns it has a financial incentive to change that. You do not know what it's doing with your package data-- you cannot know. You have to trust it.
+The management of your commons is opaque to you. It will remain opaque to you until the company that owns it has a financial incentive to change that. You do not know what it's doing with your package data— you cannot know. You have to trust it.
 
 There can be no trust without accountability, and we as the Javascript community have no way to hold npm Inc accountable.
 
@@ -172,7 +172,7 @@ npm does not love you. npm cannot love you. npm Inc is a Delaware corporation fo
 
 When I initially knew I wanted to start talking about this problem in public, instead of in corners with friends, I thought I'd be fighting an uphill battle. The VC-funded package management company was beloved, and my work was one of the reasons why. I had participated in this whole rise to prominence— I made it possible. I stood on stage in front of you all and parroted that marketing message. What I meant by it was, "I, C J Silverio, feel affection for you all," and that was true.
 
-Now I don't think anybody can stand up in front of you and say "npm loves you" without being yelled at. npm has burned all of its goodwill over the last few months. It didn't have to happen-- it was a choice made by the people who run the company. They made that choice, though, and they doubled-down on it, and here we are.
+Now I don't think anybody can stand up in front of you and say "npm loves you" without being yelled at. npm has burned all of its goodwill over the last few months. It didn't have to happen— it was a choice made by the people who run the company. They made that choice, though, and they doubled-down on it, and here we are.
 
 How did that happen? Why did the cuddly wombat get set on fire? Let's move our story forward, shall we?
 
@@ -262,7 +262,7 @@ My hope is that by giving Entropic away, I'll help us take our language commons 
 
 There's a lot more to say about Entropic, and a lot more work to do on it, but it's time for me to share it with you.
 
-If we've learned that npm doesn't love you—and it doesn't-- and we've learned that a private company shouldn't control the commons—and it shouldn't, then it's time to move with your feet. I believe the Node community is good, comprised of good people with the talent and the interest in building amazing things. We should not be defined by a single corporation, and we shouldn't let them control our destiny when so much—the future of the web!—is at stake. We need to take back control, and to do that, we need to finish building Entropic, together.
+If we've learned that npm doesn't love you—and it doesn't— and we've learned that a private company shouldn't control the commons—and it shouldn't, then it's time to move with your feet. I believe the Node community is good, comprised of good people with the talent and the interest in building amazing things. We should not be defined by a single corporation, and we shouldn't let them control our destiny when so much—the future of the web!—is at stake. We need to take back control, and to do that, we need to finish building Entropic, together.
 
 With love from two human beings, from us to you. Please do something good with this.
 
